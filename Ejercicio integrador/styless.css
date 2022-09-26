@@ -1,0 +1,58 @@
+
+
+barra{
+   padding-left: 4cm;
+    padding-right: 4cm;
+    
+}
+
+
+.container-fluid img{
+    
+    height: 80px;
+}
+
+.img-con-texto {
+    
+    height: 1px;
+    
+    
+    /*opacity: 1;
+        transition: 0.5s opacity;*/
+}
+.ttd-backwater {    
+    position: relative;
+  }
+  .ttd-backwater .title {
+      position: absolute;
+      bottom: 0%;
+      left: 50%;
+      transform: translate(-50%, -0%);
+      color: white;
+      text-align: left;
+      width: 100%;
+  }
+  
+  .ttd-backwater .title h4 {
+    margin: 0;
+    font-size: 40px;
+    white-space: nowrap;
+    color:#ffffff;
+    padding: 12px 45px;
+  }
+  
+  .ttd-backwater .title p{
+    margin: 0;
+    font-size: 1.0em;
+    color:#ffffff;
+    padding: 12px 45px;
+    background-color: rgb(0 0 0 / 40%);
+  }
+  .ttd-backwater img {
+    width: auto;
+    height: 100%;
+  }
+
+.container-fluid ul li a{
+    /*font-size: 0.9em;*/
+}
